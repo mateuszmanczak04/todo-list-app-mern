@@ -8,7 +8,7 @@
     "build": "npm install && cd client && npm install && npm run build"
   },
   "engines": {
-    "node": "18.x"
+    "node": "16.x"
   },
   "keywords": [],
   "author": "",
